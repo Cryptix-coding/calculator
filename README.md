@@ -1,9 +1,6 @@
 # calculator
 A small calculator in Python with tkinter
 
-## Prerequisites
-Have Python 3.8 or newer installed
-
 ## Usage
 Run the Python file, and calculate using the buttons (of the tkinter window) or writing into the text field using your keyboard
 
