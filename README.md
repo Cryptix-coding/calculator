@@ -11,7 +11,7 @@ A lightweight graphical calculator built with Python and the Tkinter library.
 Run the Python script to start the application. You can use the calculator by either clicking the on-screen buttons or by typing equations directly into the text field using your keyboard.
 
 ## Image of the calculator
-
+<img width="347" height="270" alt="calculator" src="https://github.com/user-attachments/assets/2503b21b-577e-48f9-816c-516125031fb5" />
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
